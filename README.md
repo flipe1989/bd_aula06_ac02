@@ -1,1 +1,3 @@
 # bd_aula06_ac02
+  NOME: FELIPE RODRIGO DIAS
+  RA: 1900099
